@@ -1,0 +1,21 @@
+# 🎆 GLSL Canvas starter template
+
+A little starter template for writing webGL shaders for GLSL Canvas.
+
+## 🏃💨 Running 'tingz
+
+```bash
+npm install
+npm run dev
+```
+
+## 🧑‍💻🧠 Working with the template
+
+This uses a number of things to make creating shaders easier:
+
+- GLSL Canvas to load in shaders
+- Vite for running and hot reloading
+
+`index.html` renders a `<canvas>` which renders a shader fragment from the `data-fragment-url` attribute.
+
+_PRs and feedback welcome. If you use it, say hello at [hi@tommyp.org](mailto:hi@tommyp.org) and [@tommypalmr](https://twitter.com/tommypalmr)._

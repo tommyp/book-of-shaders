@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 150px;
+  left: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 2.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0 20px;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
